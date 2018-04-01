@@ -39,7 +39,7 @@ https://www.slideshare.net/ssuser524a9d/smart-gloves-for-2018-makentu
 - 各種sensor測試用 Arduino code
 - 逐步演進的智慧手套 Arduino code
 - Processing 串接、資料視覺化 code
-- Python Sci-kit Learn SVM code
+- Python Scikit-learn SVM code（forked from [federico-terzi/gesture-keyboard](https://github.com/federico-terzi/gesture-keyboard)）
 - 開發中的code：螢幕滑鼠控制、樹莓派串接等
 
 智慧手套系統架構圖：
